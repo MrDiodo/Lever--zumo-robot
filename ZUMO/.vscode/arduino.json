@@ -1,0 +1,9 @@
+{
+    "board": "arduino:avr:pro",
+    "configuration": "cpu=16MHzatmega328",
+    "sketch": "Version V4.0\\Principal\\robotSUMO-v0.3.1\\robotSUMO-v0.3.1.ino",
+    "port": "COM4",
+    "programmer": "AVRISP mkII",
+    "output": "../ArduinoOutput",
+    "defaultBaudRate": 9600
+}
